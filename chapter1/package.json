@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "async": "1.5.0",
+    "mongodb": "2.0.49"
+  },
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-mocha": "2.2.0",
+    "mocha": "2.2.5"
+  },
+  "repository" : "git@github.com:piyushdubey/M101X.git"
+}
